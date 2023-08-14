@@ -24,3 +24,21 @@ Users can adjust the volume level using hand gestures with zero to five fingers.
 
 ### Playlist Navigation:
 Users can use a thumbs gesture to navigate through the playlist. A thumbs-down gesture to the right will move to the next track, while a thumbs-up gesture to the left will go back to the previous track.
+
+# How to Use
+
+1. **Clone the Repository:** Start by cloning this repository to your local machine.
+```
+git clone https://github.com/alsalmaf/HGCMP.git
+cd HGCMP
+```
+
+3. **Set Up Dependencies:** Install the required dependencies using the provided instructions.
+```
+sh setup.sh
+```
+
+5. **Run the Program:** Execute the program, and your webcam will become your music control center.
+```
+python run.py
+```
