@@ -1,0 +1,9 @@
+0 1
+1 2
+2 3
+3 4
+4 mute
+5 max
+6 prev
+7 pause_play
+8 next
