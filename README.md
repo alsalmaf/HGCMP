@@ -1,5 +1,7 @@
 # HGCMP(Hand Gesture Controlled Music PLayer)
-Welcome to the Hand Gesture Recognition for Music Player Control GitHub repository! This project is all about redefining how you interact with your music player. Say goodbye to physical buttons and traditional input methods – our program empowers you to control your music playback with the power of your hands.
+Welcome to the Hand Gesture Recognition for Music Player Control GitHub repository! This project is all about redefining how you interact with your music player. Say goodbye to physical buttons and traditional input methods – our program empowers you to control your music playback with the power of your hands.  
+  
+<sub><sup>*this project is Windows OS specific.</sup></sub>
 
 ## What Is Hand Gesture Recognition?
 Hand Gesture Recognition is an exciting field of computer vision that enables machines to understand and interpret human hand movements. In this project, this technology has been harnessed to create an intuitive way to interact with your music player. By recognizing specific hand gestures, you can effortlessly control your music without touching a single button.
