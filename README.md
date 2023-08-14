@@ -39,7 +39,7 @@ Users can use a thumbs gesture to navigate through the playlist. A thumbs-down g
        
    *The current latest version mediapipe 0.9.0.1 (a machine learning framework neccary for this project) currently provides wheels for Windows for Python 3.7-3.10 so you may need to downgrade your Python version.
 ```
-    script.bat
+    setup.bat
 ```
 
 5. **Run the Program:** Execute the program, and your webcam will become your music control center.
