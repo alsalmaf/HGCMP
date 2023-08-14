@@ -33,7 +33,7 @@ git clone https://github.com/alsalmaf/HGCMP.git
 cd HGCMP
 ```
 
-3. **Set Up Dependencies:** Install the required dependencies using the provided instructions.\
+3. **Set Up Dependencies:** Install the required dependencies using the provided instructions.\\
    *The current latest version mediapipe 0.9.0.1 (a machine learning framework neccary for this project) currently provides wheels for Windows for Python 3.7-3.10 so you may need to downgrade your Python version.
 ```
 sh setup.sh
