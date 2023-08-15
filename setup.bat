@@ -3,7 +3,7 @@
 setlocal
 
 REM List of dependencies to install
-set "dependencies= opencv-python cvzone mediapipe numpy pygame soundcloud-lib"
+set "dependencies= opencv-python cvzone tensorflow mediapipe numpy pygame soundcloud-lib"
 
 REM Path to the Python executable
 set "python_executable=python"
